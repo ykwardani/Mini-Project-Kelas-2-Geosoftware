@@ -1,5 +1,6 @@
 # Mini-Project-Kelas-2-Geosoftware
-Klasifikasi Citra Satelit dan Visualisasi Spasial
+# Klasifikasi Citra Satelit dan Visualisasi Spasial
+
 Project ini saya saya kerjakan sebagai bentuk latihan dan tugas akhir dari serangkaian pelatihan yang saya ikuti di geosoftware.id untuk menambah pengetahuan dan skill saya dalam mengolah data spasial dengan menggunakan pyhton dan machine learning.
 
 Dalam project ini, saya melakukan analisis spasial terhadap citra satelit wilayah Jakarta dengan dua pendekatan: klasifikasi berbasis machine learning (Random Forest) dan
